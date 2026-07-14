@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+thewarroomcharity.com	TRUE	/	FALSE	1999999999	CFID	490321177
+thewarroomcharity.com	TRUE	/	FALSE	1999999999	CFTOKEN	42a6794ae3f4400b-73C190BF-D796-2D5C-6855A508F7F3E94F
+
